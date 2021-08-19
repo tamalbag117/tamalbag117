@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is TAMAL BAG
 #### I’m interested in coding I’m currently learning java,c,css3,html5,javaScript
 
-Skills: JAVA/C / JS / HTML5 / CSS3
+Skills: JAVA/C /HTML5 / CSS3
 
 - 📫 How to reach me: https://www.linkedin.com/in/tamal-bag-364562201/ 
 
