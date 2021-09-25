@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is TAMAL BAG
-#### I’m interested in coding I’m currently learning java,c,css3,html5,javaScript
+#### I’m interested in coding I’m currently learning java,c,css3,html5,javaScript,python
 
 Skills: JAVA/C /HTML5 / CSS3
 
