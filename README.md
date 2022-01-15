@@ -35,7 +35,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tamalbag117&themp=dracula)   -->
 
 <h3 align="left">Github Profile Details</h3>
-<p align="center"><img height="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamalbag117&theme=dracula" alt="graph" align = "center"/></p>
+<p align="center"><img height="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamalbag117&theme=monokai" alt="graph" align = "center"/></p>
 
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=tamalbag117&theme=monokai)
 
