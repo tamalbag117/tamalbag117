@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamal Bag</h1>
-<h3 align="center">I’m interested in coding I’m currently learning Java, C, XML, Python, Kotlin</h3>
+<h3 align="center">I’m interested in Cyber Security I’m currently learning Java, C, XML, Python, Kotlin</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ff1a75&size=30&center=true&vCenter=true&width=550&height=70&lines=>Hi+👋,+I'm+Tamal+Bag;I’m+interested+in+coding;I’m+currently+learning+Java,+C;+XML,+Python+,Kotlin;">
